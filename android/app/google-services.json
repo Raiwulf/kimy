@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641003334213",
+    "firebase_url": "https://cigi-kimy.firebaseio.com",
+    "project_id": "cigi-kimy",
+    "storage_bucket": "cigi-kimy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641003334213:android:4eac77dca5b6640ff6512c",
+        "android_client_info": {
+          "package_name": "cigi.kimy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641003334213-12mmkvm1mnio8ocimtg7lchoho3o1se6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gVi3zrdY0B7iIh0_NODWjFrxYbgxbBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641003334213-12mmkvm1mnio8ocimtg7lchoho3o1se6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
